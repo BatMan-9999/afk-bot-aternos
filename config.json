@@ -1,9 +1,9 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
-	"name": "afkbot1",
+	"ip":"MedievalSMP.aternos.me:21805",
+	"port": 21805,
+	"name": "Admin_BatMan",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
-	"login-cmd":"/login (type_ur_pass_here)"
+	"register-cmd":"/register (AfkBot1) (Afkbot1)",
+	"login-cmd":"/login (AfkBot1)"
 }
